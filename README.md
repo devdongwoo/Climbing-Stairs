@@ -1,7 +1,7 @@
 # Climbing Stairs - 알고리즘 문제(Leet Code)
 
 - <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo=Python&logoColor=white"/><br/>
-- <a href="https://leetcode.com/problems/climbing-stairs" target="blank">Climning Stirs 문제</a>
+- <a href="https://leetcode.com/problems/climbing-stairs" target="blank">Climbing Stairs 문제</a>
 
 1. 문제 이해하기
 2. 문제 접근하기
