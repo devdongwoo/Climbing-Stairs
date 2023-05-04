@@ -41,6 +41,6 @@
 
     <strong>dictionary</strong>를 사용해서 <strong>O(1)</strong>, 한번씩만 구하면 결국 <strong>O(n)</strong>을 사용하면 된다는거!!
 
-    dict라는 <strong>dictionary</strong>를 만들고 해당 key, value는 1 ~ 2 계단을 리터럴로 넣어준다.
+    dict라는 <strong>dictionary</strong>를 만들고 해당 key, value는 1 ~ 2 계단을 리터럴로 넣어준다.<br/>
     그리고 <strong>dictionary</strong>의 key에 i가 없을때 만족하는 코드를 작성했다.
     <img src="./img/problem5.png">
